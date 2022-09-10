@@ -12,6 +12,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
   
 - <b>Cybersecurity Templates</b>
+  - [TryHackMe Profile](https://tryhackme.com/profile) 
   - [Threat Analysis Template](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)

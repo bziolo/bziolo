@@ -1,5 +1,5 @@
 <h1>Hi, I'm Brian!</h1>
-<h2>Boiling problems down to their simlest essences and creating simple and concise solutions is a particular strength of mine</h2>
+<h2>Boiling problems down to their foundational elements and creating simple and concise solutions is a particular strength of mine</h2>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Programming Projects</b>

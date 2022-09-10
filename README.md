@@ -2,21 +2,19 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Linux</b>
+- <b>Programming Projects</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Alfred State Track Team Recruiting Bot] (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Discord Recruiter Bot] (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Natural Gas & Electric Utility Tariff Automation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [NOCO Pricing Web Portal](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  
 - <b>Cybersecurity Templates</b>
   - [Threat Analysis Template](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [NOCO Pricing Web Portal](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Natural Gas & Electric Utility Tariff Automation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📝 Write Ups & Reports</h2>
 

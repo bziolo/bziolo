@@ -1,5 +1,5 @@
 <h1>Hi, I'm Brian!
-  <br/><a href="https://github.com/bziolo">Programmer</a> & <a href="https://www.linkedin.com/in/brianziolo/">Cybersecurity Professional</a>
+  PRoblem Solver, <br/><a href="https://github.com/bziolo">Programmer</a> & <a href="https://www.linkedin.com/in/brianziolo/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

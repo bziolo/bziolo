@@ -1,5 +1,6 @@
 <h1>Hi, I'm Brian!</h1>
 <h2>Boiling problems down to their foundational components and creating simple and concise solutions is a particular strength of mine. I look forward to working with you!</h2>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Programming Projects</b>

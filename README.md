@@ -4,8 +4,8 @@
 
 - <b>Programming Projects</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Alfred State Track Team Recruiting Bot] (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Discord Recruiter Bot] (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Alfred State Track Team Recruiting Bot](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Discord Recruiter Bot](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Natural Gas & Electric Utility Tariff Automation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [NOCO Pricing Web Portal](https://github.com/joshmadakor1/EncrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)

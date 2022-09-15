@@ -1,22 +1,23 @@
 <h1>Hi, I'm Brian!</h1>
-<h2>Boiling problems down to their foundational elements and creating clear and concise solutions is a particular strength of mine. I look forward to working with you!</h2>
+<h3>Deconstructing problems down to their foundational elements is a particular strength of mine. Creating clear and concise solution reports sets me apart.
+<br>
+<br>
+I look forward to working with you!</h3>
+
+<h2>💻 Cybersecurity </h2>
+
+  - [TryHackMe (CTFs & Personal Development)](https://tryhackme.com/p/bziolo)
+  - [Threat Analysis Template](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)  
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Programming Projects</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Alfred State Track Team Recruiting Bot](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Discord Recruiter Bot](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Natural Gas & Electric Utility Tariff Automation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [NOCO Pricing Web Portal](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-  
-- <b>Cybersecurity Templates</b>
-  - [TryHackMe Profile](https://tryhackme.com/profile) 
-  - [Threat Analysis Template](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 <h2>📝 Write Ups & Reports</h2>
 

@@ -1,6 +1,8 @@
 ![1614123425097](https://user-images.githubusercontent.com/27728948/190428181-6a270499-4916-44eb-935d-ffd2055a91ca.jpg)
 
 <h1>Hi, I'm Brian!</h1>
+<h1>Cybersecuirty Analyst, Financial Modeling, Problem Solver
+</h1>
 <h3>Deconstructing problems to their core elements is a particular strength of mine. Creating clear and concise solution reports sets me apart.
 <br>
 <br>

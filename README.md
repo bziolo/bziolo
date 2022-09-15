@@ -1,5 +1,5 @@
 <h1>Hi, I'm Brian!</h1>
-<h3>Deconstructing problems down to their foundational elements is a particular strength of mine. Creating clear and concise solution reports sets me apart.
+<h3>Deconstructing problems to their core elements is a particular strength of mine. Creating clear and concise solution reports sets me apart.
 <br>
 <br>
 I look forward to working with you!</h3>

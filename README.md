@@ -10,7 +10,7 @@ I look forward to working with you!</h3>
   - [Alfred State Track Team Recruiting Application](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Discord Recruiter Bot](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Natural Gas & Electric Utility Tariff Automation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [NOCO Pricing Web Portal](https://github.com/joshmadakor1/EncrypterPOC)
+  - [NOCO Pricing Web Portal & Automated Pricing](https://github.com/joshmadakor1/EncrypterPOC)
 
 
 <h2>💻 Cybersecurity </h2>

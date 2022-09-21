@@ -7,7 +7,7 @@ I look forward to working with you!</h3>
 
 <h2>💻 Cybersecurity </h2>
 
-  - [TryHackMe (CTFs & Personal Development)](https://tryhackme.com/p/bziolo)
+  - [TryHackMe (CTFs & Personal Development) Top 1% of users](https://tryhackme.com/p/bziolo)
   - [Threat Analysis Template](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)

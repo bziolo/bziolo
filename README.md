@@ -7,7 +7,7 @@ I look forward to working with you!</h3>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Alfred State Track Team Recruiting Bot](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Alfred State Track Team Recruiting Application](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Discord Recruiter Bot](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Natural Gas & Electric Utility Tariff Automation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [NOCO Pricing Web Portal](https://github.com/joshmadakor1/EncrypterPOC)

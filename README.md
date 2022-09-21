@@ -5,6 +5,14 @@
 <br>
 I look forward to working with you!</h3>
 
+<h2>👨‍💻 Software Development Projects:</h2>
+
+  - [Alfred State Track Team Recruiting Bot](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Discord Recruiter Bot](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Natural Gas & Electric Utility Tariff Automation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [NOCO Pricing Web Portal](https://github.com/joshmadakor1/EncrypterPOC)
+
+
 <h2>💻 Cybersecurity </h2>
 
   - [TryHackMe (CTFs & Personal Development) Top 1% of users](https://tryhackme.com/p/bziolo)
@@ -12,13 +20,6 @@ I look forward to working with you!</h3>
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)  
-
-<h2>👨‍💻 Software Development Projects:</h2>
-
-  - [Alfred State Track Team Recruiting Bot](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Discord Recruiter Bot](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Natural Gas & Electric Utility Tariff Automation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [NOCO Pricing Web Portal](https://github.com/joshmadakor1/EncrypterPOC)
 
 <h2>📝 Write Ups & Reports</h2>
 

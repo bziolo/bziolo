@@ -13,7 +13,7 @@ I look forward to working with you!</h3>
   - [NOCO Pricing Web Portal & Automated Pricing](https://github.com/joshmadakor1/EncrypterPOC)
 
 <h2>💻 Cybersecurity </h2>
-  - [TryHackMe (CTFs & Personal Development For Safer Coding) (https://tryhackme.com/p/bziolo)
+  - [TryHackMe (CTFs & Personal Development For Safer Coding)] (https://tryhackme.com/p/bziolo)
 <!--
 <h2>💻 Cybersecurity </h2>
 

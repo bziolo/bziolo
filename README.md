@@ -12,7 +12,9 @@ I look forward to working with you!</h3>
   - [Natural Gas & Electric Utility Tariff Automation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [NOCO Pricing Web Portal & Automated Pricing](https://github.com/joshmadakor1/EncrypterPOC)
 
-
+<h2>💻 Cybersecurity </h2>
+  - [TryHackMe (CTFs & Personal Development For Safer Coding) (https://tryhackme.com/p/bziolo)
+<!--
 <h2>💻 Cybersecurity </h2>
 
   - [TryHackMe (CTFs & Personal Development) Top 1% of users](https://tryhackme.com/p/bziolo)
@@ -39,7 +41,7 @@ I look forward to working with you!</h3>
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
+
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

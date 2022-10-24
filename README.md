@@ -17,9 +17,9 @@ I look forward to working with you!</h3>
   - [MorningStar Capacity Futures Automation](https://github.com/bziolo/Import_MorningStar_Capacity)
   - [Pricing Web Portal & Automated Pricing](https://github.com/bziolo/NGE_WebPortal)
 
-<h2>💻 Cybersecurity </h2>
+<h2>💻 Cybersecurity - CTFs & Personal Development </h2>
   
-  - [TryHackMe (CTFs & Personal Development)](https://tryhackme.com/p/bziolo)
+  - [TryHackMe](https://tryhackme.com/p/bziolo)
   - [CTF - Attack Template](https://github.com/bziolo/Cyber-Security-Templates-and-Resources)
   - [OSCP Completed Lab Walkthroughs](https://github.com/bziolo/OSCP_Labs)
   

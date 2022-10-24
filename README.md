@@ -7,10 +7,11 @@ I look forward to working with you!</h3>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Alfred State Track Team Recruiting Application](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Alfred State Track Team Recruiting Application](https://github.com/bziolo/AlfredState_ContactTrackProspects)
   - [Discord Recruiter Bot](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Natural Gas & Electric Utility Tariff Automation](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [NOCO Pricing Web Portal & Automated Pricing](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Natural Gas & Electric Utility Tariff Automation](https://github.com/bziolo/GetData_UtilitySupplyCharges)
+  - [MorningStar Elecric Futures Automation](https://github.com/bziolo/Import_MorningStar_ELE_PowerFutures)
+  - [Pricing Web Portal & Automated Pricing](https://github.com/bziolo/NGE_WebPortal)
 
 <h2>💻 Cybersecurity </h2>
   

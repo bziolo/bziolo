@@ -9,7 +9,7 @@ I look forward to working with you!</h3>
 
   - [Alfred State Track Team - Identify Valuable Recruits](https://github.com/bziolo/Track_Valuable_Transfer_Prospect)
   - [Alfred State Track Team Contact Prospects](https://github.com/bziolo/AlfredState_ContactTrackProspects)
-  - [Discord Recruiter Bot](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Discord Recruiter Bot](https://github.com/bziolo/Discord_Recruitment_Bot)
   - [Natural Gas & Electric Utility Tariff Automation](https://github.com/bziolo/GetData_UtilitySupplyCharges)
   - [Platts Daily Publication - Fetch Automation](https://github.com/bziolo/GetData_PlattsDaily)
   - [Platts Daily Publication - Import Automation](https://github.com/bziolo/importdata_plattsgasdaily)

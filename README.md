@@ -7,15 +7,21 @@ I look forward to working with you!</h3>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Alfred State Track Team Recruiting Application](https://github.com/bziolo/AlfredState_ContactTrackProspects)
+  - [Alfred State Track Team - Identify Valuable Recruits](https://github.com/bziolo/Track_Valuable_Transfer_Prospect)
+  - [Alfred State Track Team Contact Prospects](https://github.com/bziolo/AlfredState_ContactTrackProspects)
   - [Discord Recruiter Bot](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Natural Gas & Electric Utility Tariff Automation](https://github.com/bziolo/GetData_UtilitySupplyCharges)
+  - [Platts Daily Publication - Fetch Automation](https://github.com/bziolo/GetData_PlattsDaily)
+  - [Platts Daily Publication - Import Automation](https://github.com/bziolo/importdata_plattsgasdaily)
   - [MorningStar Elecric Futures Automation](https://github.com/bziolo/Import_MorningStar_ELE_PowerFutures)
+  - [MorningStar Capacity Futures Automation](https://github.com/bziolo/Import_MorningStar_Capacity)
   - [Pricing Web Portal & Automated Pricing](https://github.com/bziolo/NGE_WebPortal)
 
 <h2>💻 Cybersecurity </h2>
   
   - [TryHackMe (CTFs & Personal Development)](https://tryhackme.com/p/bziolo)
+  - [CTF - Attack Template](https://github.com/bziolo/Cyber-Security-Templates-and-Resources)
+  - [OSCP Completed Lab Walkthroughs](https://github.com/bziolo/OSCP_Labs)
   
 <!--
 <h2>💻 Cybersecurity </h2>
